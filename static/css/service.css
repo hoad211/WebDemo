@@ -1,0 +1,27 @@
+.bg-addcart{
+  background-color: rgb(219, 144, 77) !important;
+}
+.orange{
+  color: #E49375!important;
+}
+.bg-pink{
+  background-color: #FEE2DC !important;
+}
+.w-200{
+  width: 200px;
+}
+.h-400{
+  height: 400px;
+}
+.text-orange{
+  color: #DF7D59;
+}
+.text-black{
+  color: #030303;
+}
+.w-300{
+  width: 300px;
+}
+.object-fit-contain{
+  object-fit: contain;
+}
